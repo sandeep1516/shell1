@@ -1,4 +1,4 @@
 echo "sandeep endla"
-ls -ltrh 
+ls -ltrh | awk {print $1}
 hostname
 
