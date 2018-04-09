@@ -1,2 +1,2 @@
-apt-get update
-apt-get install  apache2 -y
+echo "sandeep endla"
+hostname 
