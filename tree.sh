@@ -1,1 +1,2 @@
-apt-get install tree -y
+apt-get update
+apt-get install  -y
