@@ -1,3 +1,6 @@
+whoami
+sudo -i
+whoami
 echo "sandeep endla"
 hostname
 mkdir /var/lib/apt/lists/partial
